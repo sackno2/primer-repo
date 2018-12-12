@@ -1,12 +1,7 @@
 Este es un archivo modificado
-<<<<<<< HEAD
-<<<<<<< HEAD
 Linea del Branch TEST
-=======
-=======
 Linea del Branch TEST
->>>>>>> bugFix
 Archivo modificado en el branch bugFix
->>>>>>> bugFix
+
 
 
